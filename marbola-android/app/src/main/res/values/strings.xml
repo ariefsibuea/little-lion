@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">Marbola</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+
+    <!--Drawer-->
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+    <string name="content_description_drawer">Drawer App Logo</string>
+
+    <!--button-->
+    <string name="later">Later</string>
+    <string name="submit">Submit</string>
+
+    <!--main-->
+    <string name="title">Marbola</string>
+    <string name="country_1">Country</string>
+    <string name="country_2">Country</string>
+
+    <!--empty state-->
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+
+    <!--drawer menu-->
+    <string name="live">Live</string>
+    <string name="final_time">Final Time</string>
+    <string name="schedule">Schedule</string>
+    <string name="list_league">League</string>
+
+    <!--toolbar title-->
+    <string name="tt_live">Live</string>
+    <string name="tt_final_time">Final Time</string>
+    <string name="tt_schedule">Schedule</string>
+    <string name="tt_list_league">League</string>
+    <string name="tt_default">Marbola</string>
+
+    <!--schedule card view-->
+    <string name="ri_default_team_name">A</string>
+    <string name="home_team_text_view">Home Team</string>
+    <string name="away_team_text_view">Away Team</string>
+    <string name="home_team_desc">Home Team Logo</string>
+    <string name="away_team_desc">Away Team Logo</string>
+    <string name="score_delimiter">:</string>
+    <string name="default_home_score">0</string>
+    <string name="default_away_score">0</string>
+    <string name="predict_title">Prediction</string>
+    <string name="predict_none">None</string>
+
+    <!--league-->
+    <string name="league_name_default">League Name</string>
+</resources>

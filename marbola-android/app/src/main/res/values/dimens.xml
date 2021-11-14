@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">0dp</dimen>
+    <dimen name="app_padding">16dp</dimen>
+    <dimen name="half_app_padding">8dp</dimen>
+
+    <!--Drawer header size setting-->
+    <dimen name="nav_drawer_height">64dp</dimen>
+    <dimen name="nav_drawer_default_margin">20dp</dimen>
+
+    <!--Default text score-->
+    <dimen name="text_score_size">32sp</dimen>
+
+    <!--Default text league-->
+    <dimen name="text_league_size">20sp</dimen>
+
+    <!--Layout padding-->
+    <dimen name="layout_to_card_space">8dp</dimen>
+
+    <!--Splash size setting-->
+    <dimen name="logo_width">200dp</dimen>
+    <dimen name="logo_height">200dp</dimen>
+
+    <!--CardView size setting-->
+    <dimen name="card_corner_radius">7dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_default_margin">8dp</dimen>
+    <dimen name="card_border_margin">5dp</dimen>
+
+    <!--League size setting-->
+    <dimen name="league_default_margin">8dp</dimen>
+</resources>

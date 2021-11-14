@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/blue_dark"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/league_name_text_view"
+        style="@style/TextStyle.Heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_league_size"
+        android:layout_margin="@dimen/app_padding"
+        android:textColor="@color/light_blue"
+        tools:text="@string/league_name_default" />
+
+</RelativeLayout>
